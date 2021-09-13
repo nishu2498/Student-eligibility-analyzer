@@ -1,18 +1,14 @@
 # Data-Science-Internship-Project
 This Project is part of Internship at Cloud Counselage Pvt. Ltd
 
-As part of this project, Intern is suppossed:
+Understanding and analysis of dataset using Python.
 
-to understand and analyze the given dataset 
+Exposure to Data Cleaning and Preprocessing techniques.
 
-perform data cleaning and wrangling operation
+Preparation of visualization reports to illustrate various criteria of eligibility and corresponding statistics.
 
-gain insights from data 
+Application of RandomForestClassiﬁer algorithm for "Student Eligibility Analyzer" model.
 
-represent it in virtual report.
+Testing the model for hyperparameter tuning using GridSearchCV.
 
-The dataset is of Cloud Counselage Interns from various colleges,cities and with various judging creteria.
-
-Also Intern needs to apply best binary classifier to classify Student as Eligible or Ineligible.
-
-I have used RandomForestClassifier to obtain F1 score as 1.0 as solution to best binary classifier
+Used F1 score as a classiﬁcation metric.
